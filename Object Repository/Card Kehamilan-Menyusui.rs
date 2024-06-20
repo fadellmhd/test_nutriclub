@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Card Kehamilan-Menyusui</name>
+   <tag></tag>
+   <elementGuidId>670c417b-9253-44cb-b6ef-bb43a07ccb3d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Anak'])[1]/following::a[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>1a24d534-b2c6-4bf6-853b-938a7522f15f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://www.nutriclub.co.id/stage/kehamilan-menyusui</value>
+      <webElementGuid>c127f201-1369-42b5-9279-9f85bef204ea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>card-slider-one__item slick-slide slick-active</value>
+      <webElementGuid>7ce62393-3222-4bb9-9c52-ed41ab6f63b2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-name</name>
+      <type>Main</type>
+      <value>Kehamilan &amp; Menyusui</value>
+      <webElementGuid>18e39ef0-9be8-4228-89ef-9e0ea70bbac5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-slick-index</name>
+      <type>Main</type>
+      <value>2</value>
+      <webElementGuid>ddd4ea78-bd34-4d80-8366-938461489b38</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>34443074-403b-431c-9a78-3353ae85d06e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>4facd36f-d482-49b7-9b41-405955285e62</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>                                                            Kehamilan &amp; Menyusui
+                </value>
+      <webElementGuid>ca41b389-a526-47ce-9da1-5bd79eb25d07</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/main[1]/div[@class=&quot;pimcore_area_card-slider-one pimcore_area_content&quot;]/div[@class=&quot;card-slider-one&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;card-slider-one__wrapper lazyloaded slick-initialized slick-slider&quot;]/div[@class=&quot;slick-list draggable&quot;]/div[@class=&quot;slick-track&quot;]/a[@class=&quot;card-slider-one__item slick-slide slick-active&quot;]</value>
+      <webElementGuid>8e117edc-7f51-4e18-a50b-999aeb9e80a2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Anak'])[1]/following::a[1]</value>
+      <webElementGuid>69fd18ac-43dc-496a-80e9-6fd7387408c3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bayi'])[1]/following::a[2]</value>
+      <webElementGuid>e54b36e6-3b81-4fe5-a730-5539a4c5f93e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Artikel Terbaru'])[1]/preceding::a[1]</value>
+      <webElementGuid>4d0e9b3d-58ca-4f38-8fca-fc9683924ea2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://www.nutriclub.co.id/stage/kehamilan-menyusui')]</value>
+      <webElementGuid>8aa97627-c63d-461b-87cb-04887bac7709</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div/div/a[3]</value>
+      <webElementGuid>87202ea2-a4f1-4fd9-b1a9-3e5f0e0ae84c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://www.nutriclub.co.id/stage/kehamilan-menyusui' and (text() = '                                                            Kehamilan &amp; Menyusui
+                ' or . = '                                                            Kehamilan &amp; Menyusui
+                ')]</value>
+      <webElementGuid>e55aac40-b112-4a49-803d-dfa5bda0957b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

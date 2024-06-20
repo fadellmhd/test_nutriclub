@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Card Bayi</name>
+   <tag></tag>
+   <elementGuidId>e1f6f42d-27ea-4ceb-8004-461e2723f2c4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Hal yang Perlu Anda Ketahui'])[1]/following::a[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.card-slider-one__item.slick-slide.slick-current.slick-active</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>f0308efb-b9f1-4c4f-8798-68036e1a29b0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://www.nutriclub.co.id/stage/bayi</value>
+      <webElementGuid>abb7528c-7076-4200-8e76-f14f062baf2f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>card-slider-one__item slick-slide slick-current slick-active</value>
+      <webElementGuid>9f9ee740-ba77-4984-bba6-06beb1d5e2ac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-name</name>
+      <type>Main</type>
+      <value>Bayi</value>
+      <webElementGuid>5035b289-f647-441d-967a-e6144501bbc7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-slick-index</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>e20b1cd3-8cf1-48f0-ba8f-f84ac7ef3ba9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>0880a5fa-d42c-4ff5-a718-6ef877ab8e7e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>7c345ab9-01e8-4383-8998-c88e89aa8be5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>                                                            Bayi
+                </value>
+      <webElementGuid>e171716d-b956-46ff-af20-8b556c42b3db</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/main[1]/div[@class=&quot;pimcore_area_card-slider-one pimcore_area_content&quot;]/div[@class=&quot;card-slider-one&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;card-slider-one__wrapper lazyloaded slick-initialized slick-slider&quot;]/div[@class=&quot;slick-list draggable&quot;]/div[@class=&quot;slick-track&quot;]/a[@class=&quot;card-slider-one__item slick-slide slick-current slick-active&quot;]</value>
+      <webElementGuid>1299a9aa-e929-41aa-88ec-ddfa28d1dcf4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hal yang Perlu Anda Ketahui'])[1]/following::a[1]</value>
+      <webElementGuid>270a672b-e6ea-4653-9225-34bd76b32db2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Next'])[1]/following::a[1]</value>
+      <webElementGuid>0c435a0b-118c-444b-8765-f62c3c59949c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Anak'])[1]/preceding::a[1]</value>
+      <webElementGuid>8d3428e1-f4a9-4700-abf3-965ea509e6df</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://www.nutriclub.co.id/stage/bayi')]</value>
+      <webElementGuid>6138b91e-ed2d-4038-8095-bd1c1689d62a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div/div/a</value>
+      <webElementGuid>0ccf5202-15d5-463e-a167-cff66bd4392e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://www.nutriclub.co.id/stage/bayi' and (text() = '                                                            Bayi
+                ' or . = '                                                            Bayi
+                ')]</value>
+      <webElementGuid>523dcbf5-3056-48ba-9b0a-a96b1a60052f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

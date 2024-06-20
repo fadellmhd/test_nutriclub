@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Card Anak</name>
+   <tag></tag>
+   <elementGuidId>05b69adf-c6f6-4800-97b0-cdded29f2304</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Bayi'])[1]/following::a[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>6a0eb39a-d308-42fb-8fed-2430a96ca246</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://www.nutriclub.co.id/stage/anak</value>
+      <webElementGuid>dd6a1a48-0f98-4015-872e-6ea972c39351</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>card-slider-one__item slick-slide slick-active</value>
+      <webElementGuid>41be942b-7984-44af-ae59-f8d04e6accf2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-slick-index</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>b9c35f16-7b9d-447a-b923-e4932b9486a5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>c6a240e5-5a90-4cb9-a0e0-334eeb0b875b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>c227e375-f527-4472-8de2-70493773386d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>                                                            Anak
+                </value>
+      <webElementGuid>7435f3dd-4462-4748-87f2-31094623ed8f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/main[1]/div[@class=&quot;pimcore_area_card-slider-one pimcore_area_content&quot;]/div[@class=&quot;card-slider-one&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;card-slider-one__wrapper lazyloaded slick-initialized slick-slider&quot;]/div[@class=&quot;slick-list draggable&quot;]/div[@class=&quot;slick-track&quot;]/a[@class=&quot;card-slider-one__item slick-slide slick-active&quot;]</value>
+      <webElementGuid>22b05464-f27a-4df0-ab4d-42636f1c26a1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bayi'])[1]/following::a[1]</value>
+      <webElementGuid>5280409f-41f3-478e-8bef-f9bd7cdb49c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hal yang Perlu Anda Ketahui'])[1]/following::a[2]</value>
+      <webElementGuid>193410d7-4476-4991-9c56-79d8f781e7f7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kehamilan &amp; Menyusui'])[1]/preceding::a[1]</value>
+      <webElementGuid>579c6041-3c14-4b1f-9041-46fccc0251cb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://www.nutriclub.co.id/stage/anak')]</value>
+      <webElementGuid>f9936262-6662-41b8-9cd9-3f61f4f3a414</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div/div/a[2]</value>
+      <webElementGuid>932e19b3-8401-44e5-a5b7-2e54f1f6c4a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://www.nutriclub.co.id/stage/anak' and (text() = '                                                            Anak
+                ' or . = '                                                            Anak
+                ')]</value>
+      <webElementGuid>0cf71cfb-f929-414f-ab7b-626795dd7867</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

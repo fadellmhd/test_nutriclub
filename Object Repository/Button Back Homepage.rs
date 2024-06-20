@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Button Back Homepage</name>
+   <tag></tag>
+   <elementGuidId>a1636a91-3d2c-4169-bd5b-3b2ae8a5aa60</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.nav-link.mt-0.mb-0</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='navbarNav']/div/ul/div[2]/li/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>258e7945-f4af-4b5d-bed7-2de20b13f398</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>nav-link mt-0 mb-0</value>
+      <webElementGuid>b6f2d9b0-50dc-42d3-b898-860fc2963690</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://www.nutriclub.co.id</value>
+      <webElementGuid>ed515243-57eb-424f-a276-b898135cb8b8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;navbarNav&quot;)/div[@class=&quot;col col-lg-10 p-0&quot;]/ul[@class=&quot;navbar-nav header__tool text-center&quot;]/div[@class=&quot;navbar-nav__logo&quot;]/li[@class=&quot;nav-item header__logo&quot;]/a[@class=&quot;nav-link mt-0 mb-0&quot;]</value>
+      <webElementGuid>817eb73b-e903-4453-a46f-2f435124f0c8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='navbarNav']/div/ul/div[2]/li/a</value>
+      <webElementGuid>4c0de0a1-2ecd-426f-906a-bdc44499500a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tools'])[1]/following::a[1]</value>
+      <webElementGuid>2ab54573-fcde-4d6f-8f67-d6321f753b1e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Produk'])[1]/following::a[2]</value>
+      <webElementGuid>4df15a36-84a1-4bfe-90ee-a167fa7c9fd2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nutriclub'])[1]/preceding::a[1]</value>
+      <webElementGuid>ea1fdc3b-bdaa-47ed-bd18-fa86108b388e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Upload Struk'])[1]/preceding::a[2]</value>
+      <webElementGuid>69877ef8-26a8-4eb9-8a04-4eb85d0e9605</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://www.nutriclub.co.id')]</value>
+      <webElementGuid>4864b678-96a4-4de5-a1d2-5e645bc5ae1f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/li/a</value>
+      <webElementGuid>1bc8168b-6da3-4fe4-abc0-848daf1a752e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://www.nutriclub.co.id']</value>
+      <webElementGuid>25f1fcf3-6825-470d-b555-62b7e949e70f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

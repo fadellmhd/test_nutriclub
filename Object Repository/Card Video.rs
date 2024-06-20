@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Card Video</name>
+   <tag></tag>
+   <elementGuidId>c0b411c0-9786-4f8d-87cd-46cb9b06a31d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Nikmati Konten Kami di Media Favorit Anda'])[1]/following::a[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>539fcfb8-1857-4260-86e5-1fe26747e744</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/Video</value>
+      <webElementGuid>042ce472-ae83-40d5-80c5-5eb96475e2fb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>_blank</value>
+      <webElementGuid>343624ec-0c2b-4e2d-b638-65e495a2ae54</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Video
+</value>
+      <webElementGuid>584cc974-3cf3-4f03-9e41-e4210de383a0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/main[1]/div[@class=&quot;pimcore_area_card-two-column pimcore_area_content&quot;]/div[@class=&quot;card-two-column mt-5 mb-4&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row kontent-homepage&quot;]/div[@class=&quot;col-4&quot;]/a[1]</value>
+      <webElementGuid>356b12a2-18ec-427f-a250-13ba27160823</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nikmati Konten Kami di Media Favorit Anda'])[1]/following::a[2]</value>
+      <webElementGuid>1f030e7b-19bd-4d53-8c50-7a7741149693</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lihat Semua >'])[2]/following::a[4]</value>
+      <webElementGuid>46ae4ce2-b9a9-4419-acba-d03dd4a3d8ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nutriclub Index Page'])[1]/preceding::a[2]</value>
+      <webElementGuid>a6a6a3d0-be47-4a96-b847-e46578ed1342</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='cookies'])[1]/preceding::a[2]</value>
+      <webElementGuid>4765a0fa-d178-434c-8e05-9c11004c0222</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/Video')]</value>
+      <webElementGuid>40996bb4-ffde-4f14-a87d-55f075d2f54a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]/div/div/div[2]/div[2]/a</value>
+      <webElementGuid>9d87a662-ad2a-41dc-8ecd-055dd8998b70</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/Video' and (text() = 'Video
+' or . = 'Video
+')]</value>
+      <webElementGuid>54d413e9-07ea-4b52-9ea0-9f0ba07cdeb0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

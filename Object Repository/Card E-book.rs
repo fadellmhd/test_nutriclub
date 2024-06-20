@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Card E-book</name>
+   <tag></tag>
+   <elementGuidId>f8abf841-5360-43d8-b204-6fd631f8a932</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Nikmati Konten Kami di Media Favorit Anda'])[1]/following::a[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>34877d0b-c33a-4225-b631-bdf218c841ca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/ebook</value>
+      <webElementGuid>7f3468ef-b5d9-410a-a28d-86ab30324922</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>_blank</value>
+      <webElementGuid>aca82e19-9310-43eb-a30b-372cb0407da1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>E-book
+</value>
+      <webElementGuid>1fb0cf4f-4f02-4eda-bb74-176173497c58</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/main[1]/div[@class=&quot;pimcore_area_card-two-column pimcore_area_content&quot;]/div[@class=&quot;card-two-column mt-5 mb-4&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row kontent-homepage&quot;]/div[@class=&quot;col-4&quot;]/a[1]</value>
+      <webElementGuid>bfd8cfe1-6767-4837-b93b-2ff65a5a52ed</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nikmati Konten Kami di Media Favorit Anda'])[1]/following::a[3]</value>
+      <webElementGuid>bff1fb8d-c234-4095-9623-6146eca3f9ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lihat Semua >'])[2]/following::a[5]</value>
+      <webElementGuid>bb166ec2-adcf-4f3b-8784-e754412faa3a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nutriclub Index Page'])[1]/preceding::a[1]</value>
+      <webElementGuid>041e6b38-da1f-4768-b2cf-e8fee5f39f69</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='cookies'])[1]/preceding::a[1]</value>
+      <webElementGuid>b8497aa1-8ef0-4d62-89d9-baea3c3e720c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/ebook')]</value>
+      <webElementGuid>9db8e300-c779-4554-b6cd-4cde94eb9b89</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]/div/div/div[2]/div[3]/a</value>
+      <webElementGuid>c400f0cc-e1c1-40c2-b83f-e1104bc84f20</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/ebook' and (text() = 'E-book
+' or . = 'E-book
+')]</value>
+      <webElementGuid>9ff552c9-46f0-41ef-9016-32a8887de3d1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

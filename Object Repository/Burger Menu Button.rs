@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Burger Menu Button</name>
+   <tag></tag>
+   <elementGuidId>cab330c7-70fb-4f80-b5e0-270b09c9f75b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='navbarNav']/div[2]/a[3]/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.fa.fa-bars.fa-xl</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>6b1aa410-9b9a-4280-8216-5cd8a2be84d5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-bars fa-xl</value>
+      <webElementGuid>6b6ddf5b-dcee-4766-89cb-8e06e175d89c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;navbarNav&quot;)/div[@class=&quot;col px-md-0 d-flex align-items-center justify-content-end&quot;]/a[@class=&quot;navbar-brand header__brand mr-0 header__search-submit d-sm-block&quot;]/i[@class=&quot;fa fa-bars fa-xl&quot;]</value>
+      <webElementGuid>d9c3728f-8826-4d68-9ad7-ac32b3d1daa0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='navbarNav']/div[2]/a[3]/i</value>
+      <webElementGuid>76b40ddb-fbe7-48db-9dc5-608e0677b43d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//i</value>
+      <webElementGuid>8e4d7ecb-b18f-4bcf-baed-7dc9d7177f63</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

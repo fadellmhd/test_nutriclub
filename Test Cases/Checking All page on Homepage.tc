@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Buka tiap page dan tiap menu card.</description>
+   <name>Checking All page on Homepage</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b9f68619-9fd6-4ab5-9f6f-6a7a99dfeaf4</testCaseGuid>
+</TestCaseEntity>
